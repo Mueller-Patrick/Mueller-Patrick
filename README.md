@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mueller-Patrick&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mueller-Patrick)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mueller-Patrick&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
